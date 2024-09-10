@@ -88,7 +88,7 @@ outputs = model(**inputs)
 predictions = torch.argmax(outputs.logits, dim=-1)
 label = ["entailment", "neutral", "contradiction"][predictions]
 print(f"Prediction: {label}")
-
+```
 
 
 ## Acknowledgments
