@@ -54,6 +54,7 @@ MACEDONIZER is publicly available on Hugging Face. You can use the model directl
 ```bash
 git clone https://github.com/your-repo/MACEDONIZER.git
 cd MACEDONIZER
+```
 
 ## 🏆 Results
 
